@@ -1,4 +1,4 @@
-## BAN610 Database Management System | ART GALLERY MANAGEMENT SYSTEM
+## Database Management System | Art Gallery Management System
 
 This project intends to create an Art Gallery Management System that will track and keep details of art and paintings in an art gallery/exhibitions. The main objective of this exhibition is to promote art and artists' ideas to the public. 
 
